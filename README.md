@@ -72,14 +72,20 @@ Python libraries used in this project:
 - scipy
 
 ## Project Structure
+
+```
 gamessales_project/
-    dataset/
-        VideoGames_Sales.xlsx
-        cleaned/
-            clean.csv
-    notebooks/
-        preprocessing.ipynb
-        eda.ipynb
-        stats.ipynb
-        modelling.ipynb
-    README.md
+│
+├── dataset/
+│   ├── VideoGames_Sales.xlsx
+│   └── cleaned/
+│       └── clean.csv
+│
+├── notebooks/
+│   ├── preprocessing.ipynb
+│   ├── eda.ipynb
+│   ├── stats.ipynb
+│   └── modelling.ipynb
+│
+└── README.md
+```
