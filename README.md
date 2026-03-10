@@ -24,18 +24,18 @@ Can we predict whether a game will become commercially successful?
 ## Methods
 
 The project combines several data science techniques:
- * Exploratory Data Analysis
+**Exploratory Data Analysis**
 - Sales distribution and market trends
 - Genre, platform, and publisher performance
 - Regional sales comparisons
- * Statistical Analysis
+**Statistical Analysis**
 - Correlation analysis
 - Hypothesis testing
 - Group comparisons across genres and regions
- * Machine Learning
+**Machine Learning**
 - Regression models for predicting game sales
 - Classification models for predicting hit games
- * Visualization
+**Visualization**
 - Python plots for analysis
 - Tableau dashboards for interactive exploration
 
