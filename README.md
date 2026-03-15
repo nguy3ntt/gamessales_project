@@ -71,6 +71,20 @@ Python libraries used in this project:
 - scikit-learn
 - scipy
 
+## Interactive Dashboard
+
+### Games Market Overview  
+High-level overview of the video game market, including sales by genre, top consoles, regional market share, and sales trends over time.  
+🔗 https://public.tableau.com/app/profile/tim.ng3962/viz/gamessales_17731506018630/Dashboard1?publish=yes
+
+### Regional Gaming Preferences  
+Explores how gaming preferences differ across regions by comparing genre popularity and sales distribution across North America, Japan, and PAL regions.  
+🔗 https://public.tableau.com/app/profile/tim.ng3962/viz/gamessales_17731506018630/Dashboard2?publish=yes
+
+### Drivers of Game Success  
+Highlights factors associated with successful games, including critic scores, publisher performance, and the impact of gaming platforms on sales.  
+🔗 https://public.tableau.com/app/profile/tim.ng3962/viz/gamessales_17731506018630/Dashboard3?publish=yes
+
 ## Project Structure
 
 ```
